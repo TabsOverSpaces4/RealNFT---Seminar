@@ -1,7 +1,7 @@
 
-# Adshop
+# RealNFT
 
-A Project to bring the change we need in our society when it comes to the sentiment behind adopting animals.
+A Project to bring the change we need in our society when it comes to understanding NFT's and their real worth.
 
 
 
